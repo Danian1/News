@@ -1,0 +1,2 @@
+# News
+Laravel generator news
